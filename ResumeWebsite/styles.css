@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f9;
+    color: #333;
+    padding: 20px;
+}
+
+header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+header h1 {
+    font-size: 2.5em;
+    color: black;
+}
+
+header p {
+    font-size: 1.2em;
+    color: #666;
+}
+
+h2 {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+section {
+    margin-bottom: 30px;
+}
+
+section ul {
+    list-style-type: disc;
+    padding-left: 20px;
+}
+
+section p, section ul li {
+    font-size: 1.1em;
+    margin-bottom: 5px;
+}
+
+.job {
+    margin-bottom: 20px;
+}
+
+.job h3 {
+    font-size: 1.3em;
+    color: #333;
+}
+
+.job p {
+    font-style: italic;
+}
+
+.skills h3 {
+    margin-top: 10px;
+    font-size: 1.2em;
+    color: black;
+}
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 1em;
+    color: #777;
+}
